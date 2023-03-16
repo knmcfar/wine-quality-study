@@ -8,4 +8,4 @@ The report, presentation slides, code, and dataset (the csv file titled winequal
 
 # Lessons Learned
 
-Through this project, I was able to gain experience with machine learning models and best practices for utilizing a training and test set, as well as how best to report these results in a well- organized presentation.
+Through this project, I was able to gain experience with machine learning models and best practices for utilizing a training and test set, as well as how best to report these results in a well-organized presentation.
